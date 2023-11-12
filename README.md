@@ -50,4 +50,4 @@ Dataset ini memiliki batasan geografis terkait hanya dengan Pengadilan Negeri Si
 
 Dengan dokumentasi ini, diharapkan pengguna dapat memahami dataset dengan lebih baik dan menggunakannya secara efektif.
 
-Terima kasih atas ketertarikan dan harapan dokumentasi ini bermanfaat bagi pengguna dataset ini. Jika ada pertanyaan lebih lanjut, jangan ragu untuk menghubungi [kontak yang tersedia](link-ke-kontak).
+Terima kasih atas ketertarikan dan harapan dokumentasi ini bermanfaat bagi pengguna dataset ini. 
